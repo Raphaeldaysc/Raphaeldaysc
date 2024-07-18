@@ -1,5 +1,5 @@
-### Olá! eu sou o Raphael Dias, Programador Back-End e Hacker Ético!
-## Estudande rumo ao Full-stack
+## Olá! eu sou o Raphael Dias, Programador Back-End e Hacker Ético! 👋
+### Estudande rumo ao Full-stack
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Rapha-Python" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">

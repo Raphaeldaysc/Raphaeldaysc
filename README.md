@@ -3,7 +3,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rapha-Postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Rapha-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Rapha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  [<img align="center" alt="Rapha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   <img align="center" alt="Rapha-Python" height="30" width="40" src="https://img.icons8.com/?size=50&id=mUBILbYvUMq8&format=png">
 </div>
   

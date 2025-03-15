@@ -1,25 +1,85 @@
-<h1 align="center">Olá 👋, Eu sou Raphael Dias Câmara</h1>
-<h3 align="center">Desenvolvedor Full-Stack</h3>
+# Olá, eu sou Raphael Câmara! 📊🔍
 
-- 🔭 Atualmente estou trabalhando no **Site da ONG Lar da Vovozinha**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-dias-camara/)
+[![Portfolio](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://rphl-data.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rphldev@gmail.com)
 
-- 🌱 Destrinchando **Django**
+### 👋 Bem-vindo(a) ao meu perfil de Análise de Dados e Business Intelligence!
 
-- 👨‍💻 Conheça minhas experiências [{"portifolio": "Em breve"}]({"portifolio": "Em breve"})
+Sou um(a) **Analista de Dados e BI** apaixonado(a) por transformar dados em insights acionáveis. Minha expertise inclui:
 
-- 💬 Pergunte-me sobre **Django**
+- 📈 **Visualização de Dados:** Criação de dashboards estratégicos no Power BI
+- 🐍 **Análise com Python:** Manipulação de dados com Pandas, análise estatística e automação
+- 📊 **Excel Avançado:** Modelagem de dados, fórmulas complexas e macros
+- 🧠 **Estatística Aplicada:** Testes de hipóteses, previsões e modelagem analítica
+- ⚙️ **ETL:** Construção de pipelines de dados e integração de fontes diversas
 
-- 📫 Como me encontrar **rphldev@gmail.com / LD:raphael-dias-camara**
+---
 
-- ⚡ Fato divertido **Monty Python and the Holy Grail**
+## 🛠️ Stack Técnica
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 📌 Ferramentas Principais
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+### 📚 Bibliotecas & Tecnologias
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaeldaysc&show_icons=true&locale=en&layout=compact" alt="raphaeldaysc" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaeldaysc&show_icons=true&locale=en" alt="raphaeldaysc" /></p>
+## 🚀 Projetos Destacados
+
+### [Análise de Vendas - Power BI](https://github.com/seu-user/projeto-vendas)
+📊 Dashboard interativo com análise de tendências e KPI estratégicos  
+🔧 **Tecnologias:** Power BI, DAX, SQL, ETL  
+💡 **Insight principal:** Identificação de padrões sazonais com aumento de 15% nas vendas
+
+### [Previsão de Churn - Python](https://github.com/seu-user/projeto-churn)
+🐍 Modelo preditivo para rotatividade de clientes com 89% de acurácia  
+🔧 **Tecnologias:** Pandas, Scikit-learn, Matplotlib  
+📈 **Resultado:** Redução de 30% na taxa de churn após implementação
+
+### [Automação de Relatórios - Excel/VBA](https://github.com/seu-user/automacao-excel)
+🤖 Macro para consolidação automática de dados de múltiplas fontes  
+⏱️ **Eficiência:** Redução de 8h para 15min na geração de relatórios
+
+---
+
+## 📈 Estatísticas do GitHub
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-user&layout=compact&theme=dark&hide=html,css)](https://github.com/seu-user)
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=seu-user&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/seu-user)
+
+*Nota: A maioria dos meus projetos corporativos estão em repositórios privados*
+
+---
+
+## 📌 Principais Habilidades
+
+### 💻 Técnicas
+- Modelagem de dados dimensional
+- Querying complexo em SQL
+- Análise exploratória de dados (EDA)
+- Desenvolvimento de métricas e KPIs
+- Data Storytelling
+
+### 🧠 Soft Skills
+- Tradução de requisitos de negócio para soluções técnicas
+- Comunicação clara para públicos técnicos e não técnicos
+- Gestão de stakeholders
+- Resolução de problemas complexos
+
+---
+
+## 📫 Contato
+
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/raphael-dias-camara/](https://www.linkedin.com/in/raphael-dias-camara/)
+- 📧 **E-mail:** rphldev@gmail.com
+---
+
+⭐ **Curiosidade:** "Adoro transformar planilhas caóticas em histórias visuais cativantes! 📈✨"

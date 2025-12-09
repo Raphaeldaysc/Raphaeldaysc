@@ -76,7 +76,7 @@ Construção de ambiente com separação raw/processed, ingestão via script e t
 ## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raphaeldaysc&show_icons=true&theme=midnight-purple)](https://github.com/Raphaeldaysc)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaeldaysc&layout=compact&theme=midnight-purple)](https://github.com/Raphaeldaysc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaeldaysc)](https://github.com/Raphaeldaysc/github-readme-stats)
 
 ---
 
